@@ -20,6 +20,6 @@
 
 <h2></h2>
 
-<h3>See you, Space Cowboy...</h3>
+<h3>See you, space cowboy...</h3>
 
 <img src="https://i.makeagif.com/media/2-09-2018/rGfEOo.gif">
