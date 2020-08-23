@@ -18,6 +18,8 @@
 
 <p>Harder, better, faster, stronger, someone says: I'm open to collaboration and to open source project contribution.</p>
 
+#### <a target="_blank" href="https://www.linkedin.com/in/michelebaruffetti/"> LinkdIn Contact </a>
+
 <h2></h2>
 
 ### *See you, space cowboy...*
