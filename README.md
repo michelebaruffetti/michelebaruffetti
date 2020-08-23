@@ -1,5 +1,5 @@
-<h3 align="center">Problem Solving Level?</h3>
-<p align="center"><img src="https://i.imgur.com/wdXAurf.gif"></p>
+## Problem Solving Level?
+<img src="https://i.imgur.com/wdXAurf.gif">
 
 <p>Jr. Full-Stack Web Developer</p>
 
