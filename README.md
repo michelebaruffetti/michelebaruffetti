@@ -18,6 +18,8 @@
 
 <p>Harder, better, faster, stronger, someone says: I'm open to collaboration and to open source project contribution.</p>
 
+<h2></h2>
+
 <h3>See you, space cowboy...</h3>
 
 <img src="https://i.makeagif.com/media/2-09-2018/rGfEOo.gif">
