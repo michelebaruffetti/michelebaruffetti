@@ -14,7 +14,7 @@
   <li>Package Manager: Npm, Composer</li>
 </ul>
 
-<p><strong>Constantly "macgyvering" code:</strong> play with it, broke it, undo it, rewrite it, always looking to improve myself!</p>
+<p><strong>Constantly "macgyvering" code:</strong> play with it, breake it, undo it, rewrite it, always looking to improve myself!</p>
 
 <p>Harder, better, faster, stronger, someone says: I'm open to collaboration and to open source project contribution.</p>
 
