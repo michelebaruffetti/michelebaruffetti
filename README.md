@@ -24,4 +24,7 @@
 
 ### *See you, space cowboy...*
 
-<img src="https://i.makeagif.com/media/2-09-2018/rGfEOo.gif">
+<img src="https://lh3.googleusercontent.com/proxy/X8LdTYAlGBt9q-rcHvyARuEowC2EiF0OhinZcizp8vz_UA2ga6gTmELuSFrc33n_36LUEm-qe-P8h6w8Xq8ZB5fNtdhcB5sNKLpnfsS-AFPzLuEH5WKgWWHMYb9ucory9NaXvS1BTuHPaWPfK9cyhHp-1eirjskS9KGbIcKPiWYqFeGIUnGuxEgiBR3-kaRoseENL8igLelTwot4wpBl5yGi0SjBsDBvIZ0If4damkGOZLU-nj0Xtw">
+
+
+
