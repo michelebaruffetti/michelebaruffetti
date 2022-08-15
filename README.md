@@ -1,17 +1,29 @@
 ## Problem Solving Level?
 <img src="https://i.imgur.com/wdXAurf.gif">
 
-<p>Jr. Full-Stack Web Developer</p>
+<h3>Jr. Web Developer</h3>
 
+<p>Primary Technologies:</p>
 <ul>
-  <li>Languages: HTML5, CSS3(SCSS), JavaScript, MySQL, PHP</li>
-  <li>Framework Javascript: React.js</li>
-  <li>Framework CSS: Bootstrap 3/4</li>
-  <li>Framework PHP: Laravel</li>
-  <li>Javascript Libraries: jQuery, Chart.js, Moment.js, Handlebars</li>
-  <li>Versioning system: GIT</li>
-  <li>Package Manager: Npm, Composer, Yarn</li>
+  <li>NEXT.JS / REACT.JS</li>
+  <li>JAVASCRIPT (ES6+)</li>
+  <li>TYPESCRIPT</li>
+  <li>NODE.JS</li>
+  <li>RXJS</li>
+  <li>HTML5 - CSS3 - SASS/SCSS</li>
+  <li>BOOTSTRAP - MATERIAL UI - SEMANTIC UI</li>
+  <li>GIT</li>
+  <li>NPM/COMPOSER/YARN</li>
 </ul>
+
+<p>Secondary Technologies:</p>
+<ul>
+  <li>PHP</li>
+  <li>LARAVEL</li>
+  <li>MYSQL</li>
+  <li>JQUERY</li>
+</ul>
+
 
 <p><strong>Constantly "macgyvering" code:</strong> play with it, breake it, undo it, rewrite it, always looking to improve myself!</p>
 
