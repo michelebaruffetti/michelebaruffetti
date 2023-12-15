@@ -9,9 +9,9 @@
   <li>JAVASCRIPT (ES6+)</li>
   <li>TYPESCRIPT</li>
   <li>NODE.JS</li>
-  <li>RXJS</li>
+  <li>REACT QUERTY - AXIOS - GRAPHQL</li>
   <li>HTML5 - CSS3 - SASS/SCSS</li>
-  <li>BOOTSTRAP - MATERIAL UI - SEMANTIC UI</li>
+  <li>ANT DESIGN - TAILWIND - BOOTSTRAP - SEMANTIC UI</li>
   <li>GIT</li>
   <li>NPM/COMPOSER/YARN</li>
 </ul>
@@ -19,6 +19,7 @@
 <p>Secondary Technologies:</p>
 <ul>
   <li>PHP</li>
+  <li>MATERIAL UI</li>
   <li>LARAVEL</li>
   <li>MYSQL</li>
   <li>JQUERY</li>
