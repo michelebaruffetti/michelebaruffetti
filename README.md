@@ -5,7 +5,7 @@
 
 <p>Primary Technologies:</p>
 <ul>
-  <li>REACT / NEXT.JS / REACT.JS</li>
+  <li>REACT / NEXT.JS</li>
   <li>JAVASCRIPT (ES6+)</li>
   <li>TYPESCRIPT</li>
   <li>NODE.JS</li>
